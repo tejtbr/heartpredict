@@ -101,5 +101,7 @@ import matplotlib.pyplot as plt
 # estimator = voting_classifier
 # plot_learning_curve(estimator, title, X, y, ylim=(0.7, 1.01), cv=cv, n_jobs=-1)
 
-# plt.show()
+# plt.show()  
+# its an end
+
 
