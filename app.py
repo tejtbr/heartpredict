@@ -9,7 +9,7 @@ from sklearn.ensemble import VotingClassifier
 from sklearn.metrics import accuracy_score, confusion_matrix
 import joblib
 
-# Load the dataset (assuming the dataset is named 'heart.csv')
+# Load the dataset 
 data = pd.read_csv('heart.csv')
 
 # Split the dataset into features and target variable
