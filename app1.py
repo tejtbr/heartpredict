@@ -7,7 +7,7 @@ from PIL import Image
 # Load the trained model
 voting_classifier = joblib.load('heart_disease_model.pkl')
 
-# Load the dataset (assuming the dataset is named 'heart.csv')
+#loding data set
 data = pd.read_csv('heart.csv')
 
 # Extract features (X) and target variable (y)
